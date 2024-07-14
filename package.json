@@ -1,5 +1,5 @@
 {
-  "name": "lua-analyzer",
+  "name": "@hardy18/sam-cli-npm",
   "version": "1.0.0",
   "description": "A package to analyze Lua files for vulnerabilities",
   "main": "index.js",
