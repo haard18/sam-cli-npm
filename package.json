@@ -1,0 +1,26 @@
+{
+  "name": "lua-analyzer",
+  "version": "1.0.0",
+  "description": "A package to analyze Lua files for vulnerabilities",
+  "main": "index.js",
+  "scripts": {
+    "analyze": "node index.js",
+    "report": "node test.js",
+    "run-analysis": "node run_analysis.js"
+  },
+  "keywords": ["lua", "analyzer", "vulnerability", "security"],
+  "author": "Haard Solanki haardsolanki.itm@gmail.com",
+  "license": "ISC",
+  "dependencies": {"luaparser":"pip install luaparser"},
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/yourusername/lua-analyzer.git"
+  },
+  "bugs": {
+    "url": "https://github.com/yourusername/lua-analyzer/issues"
+  },
+  "homepage": "https://github.com/yourusername/lua-analyzer#readme",
+  "engines": {
+    "node": ">=12.0.0"
+  }
+}
