@@ -1,17 +1,23 @@
 {
-  "name": "@hardy18/sam-cli-npm",
-  "version": "1.0.0",
+  "name": "sam-cli-npm",
+  "version": "1.0.1",
   "description": "A package to analyze Lua files for vulnerabilities",
   "main": "index.js",
   "scripts": {
-    "analyze": "node index.js",
-    "report": "node test.js",
-    "run-analysis": "node run_analysis.js"
+    "analyze": "node server.js"
   },
-  "keywords": ["lua", "analyzer", "vulnerability", "security"],
+  "keywords": [
+    "lua",
+    "analyzer",
+    "vulnerability",
+    "security"
+  ],
   "author": "Haard Solanki haardsolanki.itm@gmail.com",
   "license": "ISC",
-  "dependencies": {"luaparser":"pip install luaparser"},
+  "dependencies": {
+    "express": "^4.19.2",
+    "luaparse": "^0.3.1"
+  },
   "repository": {
     "type": "git",
     "url": "https://github.com/haard18/sam-cli-npm"

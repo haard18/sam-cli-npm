@@ -1,0 +1,128 @@
+[
+    {
+        "name": "Missing Return Statement",
+        "description": "A function is missing a return statement.",
+        "pattern": "missing_return",
+        "severity": "low",
+        "line": 118
+    },
+    {
+        "name": "Missing Return Statement",
+        "description": "A function is missing a return statement.",
+        "pattern": "missing_return",
+        "severity": "low",
+        "line": 217
+    },
+    {
+        "name": "Missing Return Statement",
+        "description": "A function is missing a return statement.",
+        "pattern": "missing_return",
+        "severity": "low",
+        "line": 234
+    },
+    {
+        "name": "Missing Return Statement",
+        "description": "A function is missing a return statement.",
+        "pattern": "missing_return",
+        "severity": "low",
+        "line": 291
+    },
+    {
+        "name": "Missing Return Statement",
+        "description": "A function is missing a return statement.",
+        "pattern": "missing_return",
+        "severity": "low",
+        "line": 423
+    },
+    {
+        "name": "Missing Return Statement",
+        "description": "A function is missing a return statement.",
+        "pattern": "missing_return",
+        "severity": "low",
+        "line": 505
+    },
+    {
+        "name": "Missing Return Statement",
+        "description": "A function is missing a return statement.",
+        "pattern": "missing_return",
+        "severity": "low",
+        "line": 551
+    },
+    {
+        "name": "Missing Return Statement",
+        "description": "A function is missing a return statement.",
+        "pattern": "missing_return",
+        "severity": "low",
+        "line": 598
+    },
+    {
+        "name": "Missing Return Statement",
+        "description": "A function is missing a return statement.",
+        "pattern": "missing_return",
+        "severity": "low",
+        "line": 640
+    },
+    {
+        "name": "Missing Return Statement",
+        "description": "A function is missing a return statement.",
+        "pattern": "missing_return",
+        "severity": "low",
+        "line": 703
+    },
+    {
+        "name": "Unchecked External Calls",
+        "description": "Unchecked external call detected in function 'RegisterVendor'.",
+        "pattern": "unchecked_external_call",
+        "severity": "medium",
+        "line": 268
+    },
+    {
+        "name": "Unchecked External Calls",
+        "description": "Unchecked external call detected in function 'RegisterVendor'.",
+        "pattern": "unchecked_external_call",
+        "severity": "medium",
+        "line": 272
+    },
+    {
+        "name": "Unchecked External Calls",
+        "description": "Unchecked external call detected in function 'Publish'.",
+        "pattern": "unchecked_external_call",
+        "severity": "medium",
+        "line": 400
+    },
+    {
+        "name": "Unchecked External Calls",
+        "description": "Unchecked external call detected in function 'Publish'.",
+        "pattern": "unchecked_external_call",
+        "severity": "medium",
+        "line": 404
+    },
+    {
+        "name": "Unchecked External Calls",
+        "description": "Unchecked external call detected in function 'Info'.",
+        "pattern": "unchecked_external_call",
+        "severity": "medium",
+        "line": 486
+    },
+    {
+        "name": "Unchecked External Calls",
+        "description": "Unchecked external call detected in function 'GetPopular'.",
+        "pattern": "unchecked_external_call",
+        "severity": "medium",
+        "line": 533
+    },
+    {
+        "name": "Unchecked External Calls",
+        "description": "Unchecked external call detected in function 'Transfer'.",
+        "pattern": "unchecked_external_call",
+        "severity": "medium",
+        "line": 620
+    },
+    {
+        "name": "Unchecked External Calls",
+        "description": "Unchecked external call detected in function 'Search'.",
+        "pattern": "unchecked_external_call",
+        "severity": "medium",
+        "line": 685
+    }
+]
